@@ -86,8 +86,9 @@ More about: Use Your Zettelkasten as a Mental Gym. (Carddeck)
 
 ## The Minimalist's Zettelkasten
 <img src="/Starter-Kit/Visuals/Minimalists_TitlePage_2025-11-27.png" width="200" />
-The provided podcast from NotebookLM consists of excerpts from a book titled "The Minimalist’s Zettelkasten: Think Better with Less", authored by Edmund Gröpl. It is set to be independently published in early 2026. <br>
-<small> → Download: https://github.com/groepl/Obsidian-Templates/blob/main/Assets/The_Minimalists_Zettelkasten.m4a </small>
+The provided podcast from NotebookLM consists of excerpts from a book titled "The Minimalist’s Zettelkasten: Think Better with Less", authored by Edmund Gröpl. It is set to be independently published in early 2026. 
+
+More about: https://github.com/groepl/Take-Useful-Notes/
 
 ## FAQ
 - [Where can I find the latest updates from Obsidian-Templates for Zettelkasten?](https://github.com/groepl/Obsidian-Templates)
