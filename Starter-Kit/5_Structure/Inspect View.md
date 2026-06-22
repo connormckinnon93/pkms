@@ -13,6 +13,8 @@ banner: "![[IMG_0319.png]]"
 view_count: 3
 ---
 
+# Inspect View
+
 [Home](Home.md) | [ARCO](ARCO%20View.md) | [Inspect](Inspect%20View.md) 
 ```dataviewjs 
 // Select random quote or idea

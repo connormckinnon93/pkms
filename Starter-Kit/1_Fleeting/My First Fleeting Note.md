@@ -10,5 +10,3 @@ view_count: 1
 <!-- To be deleted after Permanent Note is created -->
 
 Just an idea. 💡 No templates. No special formatting.
-
-

@@ -10,13 +10,14 @@ aliases:
 created: 2023-11-21, 20:38
 modified: 2025-03-30, 16:03
 banner: "![[IMG_0319.png]]"
-banner_x: 0.5
+banner_x: 0.34356
 lead: Startpage for Zettelkasten. To be revised if necessary.
 visual: "![[image.jpg]]"
 template_type: Structure
 template_version: "1.12"
 view_count: 185
 ---
+# Home
 
 [Home](Home.md) | [ARCO](ARCO%20View.md) |  [Inspect](Inspect%20View.md) 
 

@@ -15,6 +15,8 @@ view_count: 2
 ---
 <!--  See "Template Help" below for using properties -->
 
+# About - 3_Permanent Notes
+
 <!--  Clear and descriptive title -->
 
 <!-- Visual or sketchnote if available -->

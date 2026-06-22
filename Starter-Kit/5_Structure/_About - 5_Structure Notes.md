@@ -14,6 +14,8 @@ view_count: 2
 ---
 <!--  See "Template Help" below for using properties -->
 
+# About - 5_Structure Notes
+
 ![[About - 5_Structure Notes.canvas|About - 5_Structure Notes]]
 [[About - 1_Fleeting Notes|1_Fleeting]] | [[_About - 2_Literature Notes|2_Literature]] | [[_About - 3_Permanent Notes|3_Permanent]] | [[About - 4_Project Notes|4_Project]] | [[_About - 5_Structure Notes|5_Structure]]
 
