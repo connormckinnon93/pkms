@@ -38,16 +38,15 @@ updated: 2024-10-23T17:47
 >
 >###### Bullet Journal
 >
->- [2023](2023.md) | [2024](2024.md) | [[2025]]
->- [[Jan 2025]] | [[Feb 2025]] | [[Mar 2025]]
+>- [[2026]]
 >- [[Bullet Journal Collections]]
 >
 >###### Objectives & Key Results
->- [[OKRs 2022]] | [[OKRs 2023]] | [[OKRs 2024]] | [[OKRs 2025]]
+>- [[OKRs 2026]]
 >
 >###### Vision Board
->- [[Vision Board 2022]] | [Vision Board 2023](Vision%20Board%202023.md) | [[Vision Board 2024]]
->- [[Wishes 2022]] |
+>- [[Vision Board 2026]]
+>- [[Wishes 2026]] |
 >- [[Ideas List]] |
 
 > [!organizer]- Organizer
