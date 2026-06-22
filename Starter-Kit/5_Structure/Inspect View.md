@@ -6,7 +6,7 @@ tags:
 aliases:
   - Analytics
 created: 2023-04-08, 20:42
-modified: 2025-03-30, 16:37
+modified: 2026-06-22, 16:30
 template_type: Structure
 template_version: "1.4"
 banner: "![[IMG_0319.png]]"
@@ -15,7 +15,7 @@ view_count: 3
 
 # Inspect View
 
-[Home](Home.md) | [ARCO](ARCO%20View.md) | [Inspect](Inspect%20View.md) 
+[Home](Home.md) | [ARCO](ARCO%20View.md) | [Inspect](Inspect%20View.md)
 ```dataviewjs 
 // Select random quote or idea
 let a = Math.random()
@@ -78,7 +78,6 @@ dv.paragraph("> " + text.message + " <br>- "
  	);
  } 
  ```
-
 
 ```dataviewjs 
 
@@ -240,7 +239,7 @@ dv.paragraph('<small> ' +
 
 **Workflow**
 - [On This Day](On%20This%20Day.md) | [7 Days Created](7%20Days%20Created%20Chart.md) | [7 Days Modified](7%20Days%20Modified%20Chart.md) | [Maturity](Inspect%20Maturity%20Level.md)
-- [Inspect and Adapt](Inspect%20and%20Adapt%20-%20Dashboard.md) 
+- [Inspect and Adapt](Inspect%20and%20Adapt%20-%20Dashboard.md)
 - [[Best of|Best of]] - [[Zettelkasten Flowers 2024]]
 
 **3_Permanent Notes**
@@ -253,7 +252,7 @@ dv.paragraph('<small> ' +
 
 **2_Literature Notes**
 - [[Reference Notes - Days Viewed]]
-- [Inspect Banners](Inspect%20Index%20Visuals.md) 
+- [Inspect Banners](Inspect%20Index%20Visuals.md)
 
 - [Reading](List%20of%20Reading.md) | [Books per Year](Reading%20List%20-%20Book%20per%20Year.md) | [[Bibliography]]
 
@@ -275,7 +274,7 @@ dv.paragraph('<small> ' +
 - [[Inspect Folder Usage]]
 
 **Links**
-- 
+-
 
 **Tags**
 - [[Inspect Themes]]
@@ -289,9 +288,6 @@ dv.paragraph('<small> ' +
 - [Inspect Options](Inspect%20Options.md)
 - [[List of Charts]] | [[List of Diagrams]]
 
-
-
 **References**
 <!-- Links to pages not referenced in the content. -->
 - [Inspect Options](Inspect%20Options.md)
-

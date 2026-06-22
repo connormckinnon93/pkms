@@ -6,7 +6,7 @@ tags:
 aliases: ARCO
 lead: Based on Nick Milo’s ACE framework.
 created: 2023-09-05, 16:04
-modified: 2025-03-30, 16:36
+modified: 2026-06-22, 16:30
 template_type: Structure
 template_version: "1.6"
 banner: "![[IMG_0319.png]]"
@@ -17,13 +17,13 @@ updated: 2024-10-23T17:47
 
 # ARCO View
 
-[Home](Home.md) | [ARCO](ARCO%20View.md) |  [Inspect](Inspect%20View.md) 
+[Home](Home.md) | [ARCO](ARCO%20View.md) |  [Inspect](Inspect%20View.md)
 <!-- Main STRUCTURE of my content -->
 > [!map]- Atlas
 > _Book of maps_
 >
->[[Atlas]] > [[Work]] | [[Community]] | [[Family]] | [[Self]] 
-> 
+>[[Atlas]] > [[Work]] | [[Community]] | [[Family]] | [[Self]]
+>
 
 > [!reference]- Reference
 > _Book of facts and external links_
@@ -47,18 +47,18 @@ updated: 2024-10-23T17:47
 >
 >###### Vision Board
 >- [[Vision Board 2022]] | [Vision Board 2023](Vision%20Board%202023.md) | [[Vision Board 2024]]
->- [[Wishes 2022]] | 
->- [[Ideas List]] | 
+>- [[Wishes 2022]] |
+>- [[Ideas List]] |
 
 > [!organizer]- Organizer
 > _Book of tasks and projects_
 >
 > ###### Projects
 > [_e1 - Make Useful Notes](_e1%20-%20Make%20Useful%20Notes.md) | [LinkedIn](LinkedIn%20Log.md)
-> 
+>
 > ###### Tasks
 > [Tasks](Tasks.md) |  [Tasks Open](Tasks%20Open.md) | [from E-book](Tasks%20from%20E-book.md) | [from Zettelkasten](Tasks%20-%20Zettelkasten.md) | [from Sketchnotes](Tasks%20-%20Sketchnotes.md)
-> 
+>
 > ###### Kanban
 > [Kanban Board](Kanban%20Board.md) | [Kanban Dashboard](Kanban%20Dashboard.canvas)
 >

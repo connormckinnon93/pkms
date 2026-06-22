@@ -26,7 +26,7 @@ date:
 read: 2,022
 status: completed
 created: 2022-03-09, 20:49
-modified: 2025-03-30, 17:14
+modified: 2026-06-22, 16:30
 kanban: done
 view_count: 1
 template_type: Book
@@ -41,11 +41,11 @@ by [[Sönke Ahrens]]
 ## Summary
 <!-- No more than a couple paragraphs summarizing this BOOK -->
 
-This is the second, revised and expanded edition. The first edition was published under the slightly longer title "How to Take Smart Notes. One Simple Technique to Boost Writing, Learning and Thinking - for Students, Academics and Nonfiction Book Writers". 
+This is the second, revised and expanded edition. The first edition was published under the slightly longer title "How to Take Smart Notes. One Simple Technique to Boost Writing, Learning and Thinking - for Students, Academics and Nonfiction Book Writers".
 
-The key to good and efficient writing lies in the intelligent organisation of ideas and notes. This book helps students, academics and other knowledge workers to get more done, write intelligent texts and learn for the long run. It teaches you how to take smart notes and ensure they bring you and your projects forward. 
+The key to good and efficient writing lies in the intelligent organisation of ideas and notes. This book helps students, academics and other knowledge workers to get more done, write intelligent texts and learn for the long run. It teaches you how to take smart notes and ensure they bring you and your projects forward.
 
-The Take Smart Notes principle is based on established psychological insight and draws from a tried and tested note-taking technique: the [Zettelkasten](5_Structures/Zettelkasten.md). This is the first comprehensive guide and description of this system in English, and not only does it explain how it works, but also why. It suits students and academics in the social sciences and humanities, nonfiction writers and others who are in the business of reading, thinking and writing. Instead of wasting your time searching for your notes, quotes or references, you can focus on what really counts: thinking, understanding and developing new ideas in writing. 
+The Take Smart Notes principle is based on established psychological insight and draws from a tried and tested note-taking technique: the [Zettelkasten](5_Structures/Zettelkasten.md). This is the first comprehensive guide and description of this system in English, and not only does it explain how it works, but also why. It suits students and academics in the social sciences and humanities, nonfiction writers and others who are in the business of reading, thinking and writing. Instead of wasting your time searching for your notes, quotes or references, you can focus on what really counts: thinking, understanding and developing new ideas in writing.
 
 ## Table of Contents
 
@@ -57,7 +57,6 @@ The Take Smart Notes principle is based on established psychological insight and
 From: https://zbib.org/57c08643fe5544fda0baab9d84a357e6
 
 [Goodreads](https://www.goodreads.com/book/show/60581868)
-
 
 1. [What does “taking smart notes” mean? Who created the idea of “smart notes?”](https://elizabethbutlermd.com/how-to-take-smart-notes/#what-does-%E2%80%9Ctaking-smart-notes%E2%80%9D-mean-who-created-the-idea-of-%E2%80%9Csmart-notes%E2%80%9D)
     1.  [The creator of How to Take Smart Notes: about Dr. Sönke Ahrens](https://elizabethbutlermd.com/how-to-take-smart-notes/#the-creator-of-how-to-take-smart-notes-about-dr-s%C3%B6nke-ahrens)
@@ -91,7 +90,7 @@ From: https://zbib.org/57c08643fe5544fda0baab9d84a357e6
 - 
 
 ## References
-<!-- Links to pages not referenced in the content --> 
+<!-- Links to pages not referenced in the content -->
 
 > Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking, 2022. ^3ff04b
 

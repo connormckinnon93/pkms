@@ -1,7 +1,7 @@
 ---
 view_count: 2
 created: 2024-08-23, 12:13
-modified: 2025-03-30, 18:26
+modified: 2026-06-22, 16:30
 tags:
   - type/structure
   - structure/bujo
@@ -12,6 +12,7 @@ lead: Share latest version of "Obsidian Starter Kit" to GitHub community to rece
 template_type: Structure
 template_version: "1.14"
 ---
+
 <!--  See "Template Help" below for using properties -->
 
 # Project Log - Obsidian Starter Kit
@@ -34,12 +35,11 @@ template_version: "1.14"
 **2024-01-19**
 - Release v3.0.0
 
-
 ---
 # Back Matter
 
 **Source**
-<!-- Always keep a link to the source- --> 
+<!-- Always keep a link to the source- -->
 - based_on::
 
 **References**
@@ -56,11 +56,11 @@ template_version: "1.14"
 
 ---
 **Tasks**
-<!-- What remains to be done with this note? --> 
+<!-- What remains to be done with this note? -->
 - 
 
 **Questions**
-<!-- What remains for you to consider? --> 
+<!-- What remains for you to consider? -->
 - question::
 
 ---

@@ -8,7 +8,7 @@ tags:
   - target/starterkit
 aliases: 
 created: 2023-04-08, 18:19
-modified: 2025-03-30, 16:54
+modified: 2026-06-22, 16:30
 template_type: Structure
 template_version: "1.4"
 cc: CC BY-SA 4.0
@@ -200,9 +200,7 @@ Where file.cday >= date(today) - dur(7 day)
 SORT file.cday DESC
 ```
 
-
-
-<!-- Options 
+<!-- Options
 TABLE WITHOUT ID
 	file.folder AS ...
 	file.link AS ...
@@ -226,30 +224,24 @@ WHERE sketchnote != empty
 LIMIT 3
 
 ---
-More about: 
+More about:
 https://github.com/blacksmithgu/obsidian-dataview/blob/master/docs/docs/queries/query-types.md
 https://github.com/blacksmithgu/obsidian-dataview/blob/master/docs/docs/queries/data-commands.md
 
-Source: 
+Source:
 https://github.com/groepl/Obsidian-Templates
 -->
-
-
 
 ---
 # Back Matter
 ## Questions
-<!-- What remains for you to consider? --> 
+<!-- What remains for you to consider? -->
 - 
-
 
 ## Terms
 <!-- Links to definition pages -->
 - 
 
-
 ## References
 <!-- Links to pages not referenced in the content -->
 - [Obsidian Charts - Plugin](Obsidian%20Charts%20-%20Plugin.md)
-
-

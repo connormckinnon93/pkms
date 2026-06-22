@@ -1,7 +1,7 @@
 ---
 view_count: 1
 created: 2025-03-26, 16:59
-modified: 2025-03-30, 18:22
+modified: 2026-06-22, 16:30
 tags:
   - type/post
   - theme/zettelkasten
@@ -18,7 +18,6 @@ template_version: "1.27"
 ---
 
 # Post - Luhmann vs Digital Zettelkasten
-
 
 <!-- Main content of this story -->
 ✨ Luhmann's Method vs Extended Digital Zettelkasten ✨
@@ -40,20 +39,20 @@ This makes it easier to build appropriate definitions:
 
 **2 - Luhmann's Zettelkasten**
 > The Zettelkasten, developed by Niklas Luhmann, is a paper-based knowledge management system that organizes ideas using atomic notes, a hierarchical numbering system (Folgezettel), and manual cross-referencing.
-> 
+>
 > Each note contains a single idea and is linked contextually to other notes, forming a non-linear web of knowledge. This method encourages deep thinking, emergent insights, and long-term knowledge accumulation without relying on predefined categories or rigid structures.
 
 **3 - Extended Digital Zettelkasten**
 > The extended digital Zettelkasten adapts Luhmann’s principles to digital tools like Logseq, Obsidian, Roam Research or The Archive, enhancing the system with bidirectional links, tags, search functions, and automation.
-> 
+>
 > Unlike the analog method, it allows for dynamic connections, multimedia integration, and rapid retrieval of information. Digital implementations often replace the traditional numbering system with backlinks and graph-based navigation, making the knowledge network more fluid and scalable.
 
 **References**
 ...
 
-. . .  
-Thanks very much! I really appreciate you reading my work. If you enjoyed it and found it useful, you might also like the related book “MAKE USEFUL NOTES. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten”. Here's your free copy: https://github.com/groepl/Take-Useful-Notes. 
-. . .  
+. . .
+Thanks very much! I really appreciate you reading my work. If you enjoyed it and found it useful, you might also like the related book “MAKE USEFUL NOTES. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten”. Here's your free copy: https://github.com/groepl/Take-Useful-Notes.
+. . .
 
 **Tags**
 ....
@@ -95,7 +94,7 @@ ZETTELKASTEN
 
 **References**
 <!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
-- see:: 
+- see::
 
 **Terms**
 <!-- Links to definition pages. -->
@@ -106,17 +105,15 @@ ZETTELKASTEN
 - target:: [Zettelkasten - Term and Definition — Zettelkasten Forum](https://forum.zettelkasten.de/discussion/comment/22936/#Comment_22936)
 
 **Feedback**
-<!-- Any critique, ideas or questions from social media or other audience? --> 
+<!-- Any critique, ideas or questions from social media or other audience? -->
 - 
-
 
 **Tasks**
-<!-- What remains to be done do get the final version? --> 
+<!-- What remains to be done do get the final version? -->
 - 
 
-
 **Questions**
-<!-- What remains for you to consider in the draft version? --> 
+<!-- What remains for you to consider in the draft version? -->
 - 
 
 **Latest Posts**

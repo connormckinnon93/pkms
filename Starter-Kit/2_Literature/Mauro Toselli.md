@@ -13,7 +13,7 @@ bio_short: CTO and visual thinker, runs monthly newsletter 'Keep the Creative J
 lead: +++ Term definition goes here +++
 visual: "![[image.jpg]]"
 created: 2022-03-09, 11:50
-modified: 2025-03-30, 16:34
+modified: 2026-06-22, 16:30
 template_type: Person
 view_count: 1
 template_version: "1.20"
@@ -39,7 +39,6 @@ license: © 2022-2025 by Edmund Gröpl under CC BY-NC-SA 4.0
 - Receiving signals -> [[Sending Signals]]
 -  https://www.maurotoselli.com/ CTO and visual thinker, runs an epic monthly newsletter called - [Keep the Creative Juices Flowing](https://maurotoselli.substack.com/)
 
-
 ## Quotes
 <!-- Notable quotes with reference to their page or location -->
 - 
@@ -48,12 +47,12 @@ license: © 2022-2025 by Edmund Gröpl under CC BY-NC-SA 4.0
 # Back Matter
 
 **Source**
-<!-- Always keep a link to the source- --> 
+<!-- Always keep a link to the source- -->
 - based_on:: [Mauro Toselli - Flickr](https://flickr.com/photos/91587755@N02)
 
 **References**
 <!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
-- see:: 
+- see::
 
 **Terms**
 <!-- Links to definition pages. -->
@@ -65,11 +64,11 @@ license: © 2022-2025 by Edmund Gröpl under CC BY-NC-SA 4.0
 
 ---
 **Tasks**
-<!-- What remains to be done with this note? --> 
+<!-- What remains to be done with this note? -->
 - 
 
 **Questions**
-<!-- What remains for you to consider? --> 
+<!-- What remains for you to consider? -->
 - question::
 
 ---
@@ -81,4 +80,3 @@ license: © 2022-2025 by Edmund Gröpl under CC BY-NC-SA 4.0
 - [How to Search Notes](https://github.com/groepl/Obsidian-Templates#how-to-search-notes)
 - [Plugins Needed](https://github.com/groepl/Obsidian-Templates#obsidian-plugins-needed)
 - [Find Latest Updates](https://github.com/groepl/Obsidian-Templates)
-

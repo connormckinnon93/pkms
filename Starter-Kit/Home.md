@@ -8,7 +8,7 @@ tags:
   - target/starterkit
 aliases:
 created: 2023-11-21, 20:38
-modified: 2025-03-30, 16:03
+modified: 2026-06-22, 16:30
 banner: "![[IMG_0319.png]]"
 banner_x: 0.34356
 lead: Startpage for Zettelkasten. To be revised if necessary.
@@ -17,9 +17,10 @@ template_type: Structure
 template_version: "1.12"
 view_count: 1
 ---
+
 # Home
 
-[Home](Home.md) | [ARCO](ARCO%20View.md) |  [Inspect](Inspect%20View.md) 
+[Home](Home.md) | [ARCO](ARCO%20View.md) |  [Inspect](Inspect%20View.md)
 
 ```dataviewjs 
 // Select random quote or idea

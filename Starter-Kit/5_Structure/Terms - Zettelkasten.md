@@ -6,7 +6,7 @@ tags:
 aliases: 
 banner: "![[banner_books.jpg]]"
 created: 2023-01-12, 21:03
-modified: 2025-03-30, 16:51
+modified: 2026-06-22, 16:30
 template_type: Structure
 template_version: "1.5"
 view_count: 1
@@ -24,12 +24,11 @@ FROM #type/term AND #theme/zettelkasten
 SORT file.name ASC
 ```
 
-
 ---
 # Back Matter
 
 **Source**
-<!-- Always keep a link to the source- --> 
+<!-- Always keep a link to the source- -->
 - based_on::
 
 **References**
@@ -46,11 +45,11 @@ SORT file.name ASC
 
 ---
 **Tasks**
-<!-- What remains to be done with this note? --> 
+<!-- What remains to be done with this note? -->
 - 
 
 **Questions**
-<!-- What remains for you to consider? --> 
+<!-- What remains for you to consider? -->
 - question::
 
 ---
@@ -62,11 +61,3 @@ SORT file.name ASC
 - [How to Search Notes](https://github.com/groepl/Obsidian-Templates#how-to-search-notes)
 - [Plugins Needed](https://github.com/groepl/Obsidian-Templates#obsidian-plugins-needed)
 - [Find Latest Updates](https://github.com/groepl/Obsidian-Templates)
-
-
-
-
-
-
-
-

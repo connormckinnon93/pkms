@@ -13,18 +13,17 @@ bio_short: A writer and researcher in the field of education and social science.
 birth: 1975
 death:
 created: 2022-03-06, 17:24
-modified: 2025-03-30, 16:34
+modified: 2026-06-22, 16:30
 template_type: Person
 view_count: 1
 ---
-# Sönke Ahrens
 
+# Sönke Ahrens
 
 ##  Bio
 <!-- Short biography of the AUTHOR -->
 
-
-Dr. Sönke Ahrens is a writer and researcher in the field of education and social science. 
+Dr. Sönke Ahrens is a writer and researcher in the field of education and social science.
 
 He is the author of the award-winning book “Experiment and Exploration: Forms of World Disclosure” (Springer). Since its first publication, How to Take Smart Notes has sold more than 100,000 copies and has been translated into 13 languages.
 
@@ -37,7 +36,6 @@ He is the author of the award-winning book “Experiment and Exploration: Forms 
 <!-- The main content of my thoughts really -->
 - 
 
-
 ## Quotes
 <!-- Notable quotes with reference to their page or location -->
 - 
@@ -46,9 +44,7 @@ ___
 ##### Questions
 <!-- What remains for you to consider? -->
 
-
-##### References 
+##### References
 <!-- Links to pages not referenced in the content -->
 
 - [Niklas Luhmann](Niklas%20Luhmann.md)
-

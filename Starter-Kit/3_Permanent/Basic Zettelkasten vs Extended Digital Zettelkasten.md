@@ -1,7 +1,7 @@
 ---
 view_count: 2
 created: 2025-03-09, 16:50
-modified: 2025-03-30, 18:06
+modified: 2026-06-22, 16:30
 tags:
   - type/note
   - theme/zettelkasten
@@ -14,6 +14,7 @@ visual: "![[luhmann_vs_digital_2025-03-06.png|300]]"
 template_type: Note
 template_version: "1.17"
 ---
+
 <!--  See "Template Help" below for using properties -->
 
 # Basic Zettelkasten vs Extended Digital Zettelkasten
@@ -25,7 +26,6 @@ dv.paragraph(dv.current().visual);
 <small>_Zoom: [[luhmann_vs_digital_2025-03-06.png]] | Edit: [[luhmann_vs_digital_2025-03-06.smmx]]_</small>
 
 <!-- Detailed question from short title in front matter -->
-
 
 > [!Note]
 > `= this.lead`
@@ -68,13 +68,11 @@ dv.paragraph(dv.current().visual);
 - **Personalized Growth** – Adaptable to individual workflows.
 - **Iteration & Refinement** – Notes evolve over time.
 
-
-
 ---
 # Back Matter
 
 **Source**
-<!-- Always keep a link to the source- --> 
+<!-- Always keep a link to the source- -->
 - based_on:: [[Tools for Visual Thinking]]
 
 **References**
@@ -93,11 +91,11 @@ dv.paragraph(dv.current().visual);
 
 ---
 **Tasks**
-<!-- What remains to be done with this note? --> 
+<!-- What remains to be done with this note? -->
 - 
 
 **Questions**
-<!-- What remains for you to consider? --> 
+<!-- What remains for you to consider? -->
 - question::
 
 ---

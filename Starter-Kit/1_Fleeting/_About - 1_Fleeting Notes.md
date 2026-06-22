@@ -1,7 +1,7 @@
 ---
 view_count: 2
 created: 2024-07-26, 20:42
-modified: 2025-03-30, 16:06
+modified: 2026-06-22, 16:30
 tags:
   - type/structure
   - structure/about
@@ -12,16 +12,15 @@ visual: "![[image.jpg]]"
 template_type: Structure
 template_version: "1.14"
 ---
+
 <!--  See "Template Help" below for using properties -->
 
 # About - 1_Fleeting Notes
-
 
 <!-- Visual or sketchnote if available -->
 
 ![[About - 1_Fleeting Notes.canvas|About - 1_Fleeting Notes]]
 [[_About - 1_Fleeting Notes|1_Fleeting]] | [[_About - 2_Literature Notes|2_Literature]] | [[_About - 3_Permanent Notes|3_Permanent]] | [[_About - 4_Project Notes|4_Project]] | [[_About - 5_Structure Notes|5_Structure]]
-
 
 <!--  Summarized structure from "lead"-key  in properties section -->
 
@@ -41,7 +40,6 @@ TABLE WITHOUT ID
 FROM "1_Fleeting"
 SORT file.cday asc 
 ```
-
 
 ---
 More about: [[Fleeting Notes]]

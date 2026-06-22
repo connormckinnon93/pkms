@@ -5,12 +5,12 @@ tags:
   - target/starterkit
 banner: "![[banner_books.jpg]]"
 created: 2022-03-04, 19:32
-modified: 2025-03-30, 16:54
+modified: 2026-06-22, 16:30
 view_count: 1
 template_type: Structure
 ---
-  
-# Books 
+
+# Books
 <!-- A list of books for further study or of works consulted by an author.  -->
 [[Reference]] > [[Authors]] | [[Bibliography]] | [[Books]] | [[Glossary]] | [[Quotes]]
 
@@ -67,7 +67,6 @@ FROM #type/book and !#theme/sketchnotes and !#theme/zettelkasten
 SORT file.name ASC
 ```
 
-
 ___
 
 - Chicago Manual of Style 17th edition (note)
@@ -85,7 +84,6 @@ Export options:
 - Download RIS
 
 ___
-
 
 ##### References
 - _Photo by <a href="https://unsplash.com/@chuttersnap?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CHUTTERSNAP</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_

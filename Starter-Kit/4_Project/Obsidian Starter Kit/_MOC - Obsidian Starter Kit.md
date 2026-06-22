@@ -1,7 +1,7 @@
 ---
 view_count: 1
 created: 2025-03-30, 16:01
-modified: 2025-03-30, 18:11
+modified: 2026-06-22, 16:30
 tags:
   - type/structure
   - structure/moc
@@ -11,6 +11,7 @@ lead: List of notes for an Obsidian Starter Kit published at GitHub.
 template_type: Structure
 template_version: "1.18"
 ---
+
 <!--  See "Template Help" below for using properties -->
 
 # MOC - Obsidian Starter Kit
@@ -37,17 +38,16 @@ SORT Folder ASC
 SORT Note ASC
 ```
 
-
 ---
 # Back Matter
 
 **Source**
-<!-- Always keep a link to the source- --> 
+<!-- Always keep a link to the source- -->
 - based_on:: [Example GROUP BY Queries - Dataview Example Vault](https://s-blu.github.io/obsidian_dataview_example_vault/20%20Dataview%20Queries/Example%20GROUP%20BY%20Queries/)
 
 **References**
 <!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
-- see:: 
+- see::
 
 **Terms**
 <!-- Links to definition pages. -->
@@ -59,11 +59,11 @@ SORT Note ASC
 
 ---
 **Tasks**
-<!-- What remains to be done with this note? --> 
+<!-- What remains to be done with this note? -->
 - 
 
 **Questions**
-<!-- What remains for you to consider? --> 
+<!-- What remains for you to consider? -->
 - question::
 
 ---

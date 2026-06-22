@@ -10,7 +10,7 @@ chapter: XI.14
 version: "0.1"
 status: published
 created: 2022-12-29, 14:56
-modified: 2025-03-30, 18:01
+modified: 2026-06-22, 16:30
 template_type: Structure
 template_version: "1.1"
 view_count: 1
@@ -26,7 +26,7 @@ What's new:
 - Dataview - Kanban Board.md added.
 
 Bug Fixes:
-- 
+-
 
 ***
 **[v2.0.0 - 25.04.2023](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit/releases/tag/v2.0.0)**
@@ -34,7 +34,6 @@ Bug Fixes:
 What‘s New:
 - Templates updated. See folder "[Templates](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit/tree/main/Starter-Kit/Templates)".
 - Concept for linking notes with templates added. See folder "[Canvases](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit/tree/main/Starter-Kit/Canvases)".
-
 
 ***
 **[v1.0.0](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit/releases/tag/v1.0.0)**
@@ -51,7 +50,7 @@ What‘s New:
 ---
 # Back Matter
 **Source**
-<!-- Always keep a link to the source- --> 
+<!-- Always keep a link to the source- -->
 - based_on:: [Releases · Obsidian-Templates](https://github.com/groepl/Obsidian-Templates/releases)
 
 **References**
@@ -68,11 +67,11 @@ What‘s New:
 
 ---
 **Tasks**
-<!-- What remains to be done with this note? --> 
+<!-- What remains to be done with this note? -->
 - 
 
 **Questions**
-<!-- What remains for you to consider? --> 
+<!-- What remains for you to consider? -->
 - 
 
 ---
@@ -85,15 +84,3 @@ What‘s New:
 - [Plugins Needed](https://github.com/groepl/Obsidian-Templates#obsidian-plugins-needed)
 - [Find Latest Updates](https://github.com/groepl/Obsidian-Templates)
 - 
-
-
-
-
-
-
-
-
-
-
-
-

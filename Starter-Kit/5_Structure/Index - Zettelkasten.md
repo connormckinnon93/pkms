@@ -1,6 +1,6 @@
 ---
 created: 2023-08-22, 22:59
-modified: 2025-03-30, 16:49
+modified: 2026-06-22, 16:30
 tags:
   - type/structure
   - structure/index
@@ -27,17 +27,16 @@ FROM #type/term AND #theme/zettelkasten
 SORT file.link asc
 ```
 
-
 ---
 # Back Matter
 
 **Source**
-<!-- Always keep a link to the source- --> 
+<!-- Always keep a link to the source- -->
 - based_on::
 
 **References**
 <!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
-- see:: 
+- see::
 
 **Terms**
 <!-- Links to definition pages. -->
@@ -49,11 +48,11 @@ SORT file.link asc
 
 ---
 **Tasks**
-<!-- What remains to be done with this note? --> 
+<!-- What remains to be done with this note? -->
 - 
 
 **Questions**
-<!-- What remains for you to consider? --> 
+<!-- What remains for you to consider? -->
 - question::
 
 ---

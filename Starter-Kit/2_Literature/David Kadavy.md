@@ -1,6 +1,6 @@
 ---
 created: 2023-11-01, 20:37
-modified: 2025-03-30, 16:32
+modified: 2026-06-22, 16:30
 tags:
   - type/person
   - role/author
@@ -24,17 +24,13 @@ view_count: 1
 > [!Bio short]
 > `= this.bio_short`
 
-
-
 ## Books
 <!-- Only most important I‘ve read -->
 - [[Digital Zettelkasten - David Kadavy]]
 
-
 ## Notes
 <!-- The main content of my thoughts really -->
 - 
-
 
 ## Quotes
 <!-- Notable quotes with reference to their page or location -->
@@ -43,18 +39,18 @@ view_count: 1
 ---
 # Back Matter
 ## Source
-<!-- Always keep a link to the source- --> 
+<!-- Always keep a link to the source- -->
 - 
 
 ## Tasks
-<!-- What remains to be done with this note? --> 
+<!-- What remains to be done with this note? -->
 - 
 
 ## Questions
 <!-- What remains for you to consider? -->
 - 
 
-## References 
+## References
 <!-- Links to pages not referenced in the content -->
 - [Digital Zettelkasten - Principles and Methods](Digital%20Zettelkasten%20-%20Principles%20and%20Methods.md)
 
@@ -67,19 +63,9 @@ view_count: 1
 - [Plugins Needed](https://github.com/groepl/Obsidian-Templates#obsidian-plugins-needed)
 - [Find Latest Updates](https://github.com/groepl/Obsidian-Templates)
 
-
-
-
-
-
-
-
 ---
 References
 
 - [How to take Smart Notes - Sönke Ahrens](How%20to%20take%20Smart%20Notes%20-%20Sönke%20Ahrens.md)
 - https://kadavy.net/blog/posts/how-to-take-smart-notes-summary/
 - https://kadavy.net/blog/
-
-
-

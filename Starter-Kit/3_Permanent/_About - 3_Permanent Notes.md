@@ -8,11 +8,12 @@ aliases:
 lead: "**Permanent Notes** are processed, stand-alone insights that are linked meaningfully into the system. They transform fleeting ideas into structured knowledge that can be revisited and built upon. Use them for writing notes in your own words, linking them to related concepts, and making them reusable."
 visual: "![[image.jpg]]"
 created: 2024-07-28, 13:49
-modified: 2025-03-30, 16:36
+modified: 2026-06-22, 16:30
 template_type: Structure
 template_version: "1.14"
 view_count: 2
 ---
+
 <!--  See "Template Help" below for using properties -->
 
 # About - 3_Permanent Notes
@@ -50,8 +51,5 @@ SORT file.cday desc
 LIMIT 20
 ```
 
-
 ---
 More about: [[Permanent Notes]]
-
-

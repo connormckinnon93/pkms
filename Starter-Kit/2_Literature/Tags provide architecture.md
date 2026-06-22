@@ -10,7 +10,7 @@ rule: Tags provide architecture, not content.
 author: Austin Govella
 year:
 created: 2025-03-28, 17:34
-modified: 2025-03-30, 16:35
+modified: 2026-06-22, 16:30
 template_type: Quote
 template_version: "1.17"
 view_count: 1
@@ -25,19 +25,16 @@ visual: "![[image.jpg]]"
 >  `= this.quote`
 >  — `= this.author`
 
-
-
-
 ---
 # Back Matter
 
 **Source**
-<!-- Always keep a link to the source- --> 
+<!-- Always keep a link to the source- -->
 - based_on:: [How to use tags in a PKM like Obsidian \| Medium](https://austingovella.medium.com/how-to-approach-tags-in-your-pkm-b29c98dc43d3)
 
 **References**
 <!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
-- see:: 
+- see::
 
 **Terms**
 <!-- Links to definition pages. -->
@@ -49,11 +46,11 @@ visual: "![[image.jpg]]"
 
 ---
 **Tasks**
-<!-- What remains to be done with this note? --> 
+<!-- What remains to be done with this note? -->
 - 
 
 **Questions**
-<!-- What remains for you to consider? --> 
+<!-- What remains for you to consider? -->
 - 
 
 ---

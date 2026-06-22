@@ -1,7 +1,7 @@
 ---
 view_count: 2
 created: 2024-07-26, 20:42
-modified: 2025-03-30, 16:07
+modified: 2026-06-22, 16:30
 tags:
   - type/structure
   - structure/about
@@ -12,6 +12,7 @@ visual: "![[image.jpg]]"
 template_type: Structure
 template_version: "1.14"
 ---
+
 <!--  See "Template Help" below for using properties -->
 
 # About - 2_Literature Notes
@@ -40,7 +41,6 @@ FROM "2_Literature"
 SORT file.cday asc 
 LIMIT 20
 ```
-
 
 ---
 More about: [[Literature Notes]]

@@ -7,7 +7,7 @@ tags:
 aliases: 
 lead: +++ Lead paragraph goes here +++
 created: 2023-04-02, 09:30
-modified: 2025-03-30, 17:44
+modified: 2026-06-22, 16:30
 template_type: Structure
 template_version: "1.4"
 banner: "![[banner_books.jpg]]"
@@ -63,7 +63,7 @@ TABLE WITHOUT ID
 FROM #type/term AND #theme/zettelkasten 
 SORT file.name ASC
 ```
-<!-- Options 
+<!-- Options
 TABLE WITHOUT ID
 	file.folder AS ...
 	file.link AS ...
@@ -83,25 +83,22 @@ WHERE status = "open"
 WHERE contains(file.name,"LernOS Zettelkasten")
 
 ---
-More about: 
+More about:
 https://github.com/blacksmithgu/obsidian-dataview/blob/master/docs/docs/queries/query-types.md
 https://github.com/blacksmithgu/obsidian-dataview/blob/master/docs/docs/queries/data-commands.md
 
-Source: 
+Source:
 https://github.com/groepl/Obsidian-Templates
 -->
 
-
 ---
 ## Questions
-<!-- What remains for you to consider? --> 
+<!-- What remains for you to consider? -->
 - 
-
 
 ## Terms
 <!-- Links to definition pages -->
 - 
-
 
 ## References
 <!-- Links to pages not referenced in the content -->
@@ -110,5 +107,3 @@ https://github.com/groepl/Obsidian-Templates
 - [PKM Glossary](PKM%20Glossary.md)
 - https://blacksmithgu.github.io/obsidian-dataview/queries/dql-js-inline/ for use with "Term Template"
 - Photo by [Maksym Kaharlytskyi](https://unsplash.com/@qwitka?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/Q9y3LRuuxmg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-
