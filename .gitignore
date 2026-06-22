@@ -1,0 +1,9 @@
+# Obsidian per-vault state that is machine-specific / high-churn
+# (the rest of .obsidian/ — settings, plugins, hotkeys — is tracked)
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/cache
+**/.obsidian/.trash/
+
+# macOS
+.DS_Store
