@@ -23,7 +23,7 @@ template_version: "1.17"
 ```dataviewjs 
 dv.paragraph(dv.current().visual);
 ```
-<small>_Zoom: [[luhmann_vs_digital_2025-03-06.png]] | Edit: [[luhmann_vs_digital_2025-03-06.smmx]]_</small>
+<small>_Zoom: [[luhmann_vs_digital_2025-03-06.png]]_</small>
 
 <!-- Detailed question from short title in front matter -->
 

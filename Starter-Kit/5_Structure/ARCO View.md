@@ -60,7 +60,7 @@ updated: 2024-10-23T17:47
 > [Tasks](Tasks.md) |  [Tasks Open](Tasks%20Open.md) | [from E-book](Tasks%20from%20E-book.md) | [from Zettelkasten](Tasks%20-%20Zettelkasten.md) | [from Sketchnotes](Tasks%20-%20Sketchnotes.md)
 >
 > ###### Kanban
-> [Kanban Board](Kanban%20Board.md) | [Kanban Dashboard](Kanban%20Dashboard.canvas)
+> [Kanban Board](Kanban%20Board.md)
 >
 >> [!backlog]- Backlog
 >>```dataview

@@ -28,7 +28,7 @@ It is a challenge to define the Zettelkasten method in a way that balances the c
 ```dataviewjs 
 dv.paragraph(dv.current().visual);
 ```
-<small>_Zoom: [[luhmann_vs_digital_2025-03-06.png]] | Edit: [[luhmann_vs_digital_2025-03-06.smmx]]_</small>
+<small>_Zoom: [[luhmann_vs_digital_2025-03-06.png]]_</small>
 
 This makes it easier to build appropriate definitions:
 
