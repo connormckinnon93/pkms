@@ -6,7 +6,7 @@ tags:
   - type/structure
   - structure/canvas
   - target/starterkit
-aliases: 
+aliases:
 lead: "**Project Notes** are notes related to specific, time-bound projects, containing actionable tasks, research, and drafts. They keep temporary, goal-oriented information separate from permanent knowledge. Use them for managing research for an article, tracking progress on a book, or organizing materials for a presentation."
 visual: "![[image.jpg]]"
 template_type: Structure
@@ -17,7 +17,7 @@ template_version: "1.14"
 # About - 4_Project Notes
 
 ![[About - 4_Project Notes.canvas|About - 4_Project Notes]]
-[[About - 1_Fleeting Notes|1_Fleeting]] | [[_About - 2_Literature Notes|2_Literature]] | [[_About - 3_Permanent Notes|3_Permanent]] | [[About - 4_Project Notes|4_Project]] | [[_About - 5_Structure Notes|5_Structure]]
+[[_About - 1_Fleeting Notes|1_Fleeting]] | [[_About - 2_Literature Notes|2_Literature]] | [[_About - 3_Permanent Notes|3_Permanent]] | [[_About - 4_Project Notes|4_Project]] | [[_About - 5_Structure Notes|5_Structure]]
 
 <!-- Visual or sketchnote if available -->
 
@@ -34,7 +34,7 @@ template_version: "1.14"
 <!-- Main STRUCTURE of my content -->
 
 ---
-[[Forum Obsidian]] | [[Forum Zettelkasten]] | [[About - 4_Project Notes|6_Project Notes]]
+[[Forum Obsidian]] | [[Forum Zettelkasten]] | [[_About - 4_Project Notes|6_Project Notes]]
 
 ```dataview
 TABLE WITHOUT ID 
