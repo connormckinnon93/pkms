@@ -11,7 +11,7 @@ aliases:
   - Ahrens, Sönke
 bio_short: A writer and researcher in the field of education and social science. Author of "How to take smart notes”.
 birth: 1975
-death: 
+death:
 created: 2022-03-06, 17:24
 modified: 2025-03-30, 16:34
 template_type: Person

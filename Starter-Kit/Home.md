@@ -6,7 +6,7 @@ tags:
   - target/project
   - target/github
   - target/starterkit
-aliases: 
+aliases:
 created: 2023-11-21, 20:38
 modified: 2025-03-30, 16:03
 banner: "![[IMG_0319.png]]"
@@ -15,7 +15,7 @@ lead: Startpage for Zettelkasten. To be revised if necessary.
 visual: "![[image.jpg]]"
 template_type: Structure
 template_version: "1.12"
-view_count: 185
+view_count: 1
 ---
 # Home
 

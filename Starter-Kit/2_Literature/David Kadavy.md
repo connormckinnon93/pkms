@@ -5,15 +5,15 @@ tags:
   - type/person
   - role/author
   - target/starterkit
-aliases: 
-birth: 
-death: 
-bio_short: 
+aliases:
+birth:
+death:
+bio_short:
 lead: +++ Term definition goes here +++
 visual: "![[image.jpg]]"
 template_type: Person
 template_version: "1.11"
-view_count: 2
+view_count: 1
 ---
 
 # David Kadavy

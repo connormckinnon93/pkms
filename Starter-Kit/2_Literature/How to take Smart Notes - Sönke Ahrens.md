@@ -4,7 +4,7 @@ tags:
   - theme/zettelkasten
   - type/example
   - target/starterkit
-aliases: 
+aliases:
 title: How to Take Smart Notes
 subtitle: One Simple Technique to Boost Writing, Learning and Thinking
 author: Sönke Ahrens
@@ -14,15 +14,15 @@ publish_date: 2022-03-11
 total_page: 212
 isbn: 3982438810 {{isbn1#template-variable-definition}}
 cover_url: http://books.google.com/books/content?id=QmBjEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-cover_small_url: 
+cover_small_url:
 isbn13: 9,783,982,438,818
 isbn10: 3,982,438,810
-description: 
+description:
 link: https://play.google.com/store/books/details?id=QmBjEAAAQBAJ
 preview_link: nul
 bibliography: "Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking, 2022."
 rating: ⭐️⭐️⭐️
-date: 
+date:
 read: 2,022
 status: completed
 created: 2022-03-09, 20:49

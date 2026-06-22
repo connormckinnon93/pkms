@@ -1,5 +1,5 @@
 ---
-view_count: 1
+view_count: 2
 created: 2025-03-09, 16:50
 modified: 2025-03-30, 18:06
 tags:
@@ -7,7 +7,7 @@ tags:
   - theme/zettelkasten
   - diagram/doublebubble-map
   - target/starterkit
-aliases: 
+aliases:
 question: +++ Question goes here +++
 lead: A Double Bubble Map contrasting Luhmann’s "Basic Zettelkasten Method" with "Extended Digital Zettelkasten Methods" used in digital tools.
 visual: "![[luhmann_vs_digital_2025-03-06.png|300]]"

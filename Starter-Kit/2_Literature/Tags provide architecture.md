@@ -4,16 +4,16 @@ tags:
   - theme/zettelkasten
   - type/rule
   - target/starterkit
-aliases: 
+aliases:
 quote: Tags provide architecture, not content.
 rule: Tags provide architecture, not content.
 author: Austin Govella
-year: 
+year:
 created: 2025-03-28, 17:34
 modified: 2025-03-30, 16:35
 template_type: Quote
 template_version: "1.17"
-view_count: 3
+view_count: 1
 visual: "![[image.jpg]]"
 ---
 

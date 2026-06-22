@@ -3,7 +3,7 @@ tags:
   - type/book
   - theme/zettelkasten
   - target/starterkit
-aliases: 
+aliases:
 lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
 title: Digital Zettelkasten
@@ -15,24 +15,24 @@ publisher: Kadavy, Inc.
 publish_date: 2021-05-25
 total_page: 77
 isbn:
-  "{ isbn1#template-variable-definition }": 
+  "{ isbn1#template-variable-definition }":
 cover_url: http://books.google.com/books/content?id=o4gwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-cover_small_url: 
+cover_small_url:
 isbn13: PKEY:6610000294800
-isbn10: 
-description: 
+isbn10:
+description:
 link: https://play.google.com/store/books/details?id=o4gwEAAAQBAJ
-preview_link: 
+preview_link:
 bibliography: "Kadavy, David. _Digital Zettelkasten: Principles, Methods, & Examples_. Place of publication not identified: Kadavy Inc., 2021."
 rating: ⭐️⭐️
-date: 
+date:
 read: 2023
 status: completed
 created: 2024-07-03, 16:03
 modified: 2025-03-30, 16:32
 template_type: Book
 template_version: "1.15"
-view_count: 3
+view_count: 1
 ---
 <!-- 
 rating: ⭐️⭐️⭐️    // 1 to 3 stars

@@ -4,7 +4,7 @@ tags:
   - theme/finance
   - theme/zettelkasten
   - target/starterkit
-aliases: 
+aliases:
 lead: A useful or valuable thing, person, or quality.
 created: 2022-10-30, 18:57
 modified: 2025-03-30, 18:58
