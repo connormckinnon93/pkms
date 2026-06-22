@@ -238,27 +238,22 @@ dv.paragraph('<small> ' +
 <!-- Main STRUCTURE of my content -->
 
 **Workflow**
-- [On This Day](On%20This%20Day.md) | [7 Days Created](7%20Days%20Created%20Chart.md) | [7 Days Modified](7%20Days%20Modified%20Chart.md) | [Maturity](Inspect%20Maturity%20Level.md)
-- [Inspect and Adapt](Inspect%20and%20Adapt%20-%20Dashboard.md)
+- [7 Days Created](7%20Days%20Created%20Chart.md) | [7 Days Modified](7%20Days%20Modified%20Chart.md)
 - [[Best of|Best of]] - [[Zettelkasten Flowers 2024]]
 
 **3_Permanent Notes**
 - [[Permanent Notes - Days Viewed]]
 - [[Permanent Notes - Created]]
 - [Inspect Permanent Notes by type](Inspect%20Permanent%20Notes%20by%20type.md)
-- [[Inspect Sources from Permanent Notes]]
 - [[Permanent Notes without linked sources]] - based_on field
 - [[Notes with SEE references]] - see field
 
 **2_Literature Notes**
 - [[Reference Notes - Days Viewed]]
-- [Inspect Banners](Inspect%20Index%20Visuals.md)
-
-- [Reading](List%20of%20Reading.md) | [Books per Year](Reading%20List%20-%20Book%20per%20Year.md) | [[Bibliography]]
+- [Reading](List%20of%20Reading.md) | [[Bibliography]]
 
 - [[Bibliography]]
-- [List of Terms](List%20of%20Terms.md) - [[Glossary]] - [[List of Index]] - [[Index - Zettelkasten]] - [[Maps of Books]]
-- [[Inspect Bibliographical Notes]]
+- [List of Terms](List%20of%20Terms.md) - [[Glossary]] - [[List of Index]] - [[Index - Zettelkasten]]
 
 **5_Structure Notes**
 - [[Structure Notes - Days viewed]]
@@ -282,12 +277,8 @@ dv.paragraph('<small> ' +
 **Keys & values**
 
 **Other Analytics**
-- [Wheel of Life](Wheel%20of%20Life%20-%20Related%20Ideas.md)
-- [[PowerBI Analytics]]
 - [List of Lists](List%20of%20Lists.md)  | [All notes](Dataview%20-%20All%20Notes.md) | [Views](List%20of%20Views.md)
-- [Inspect Options](Inspect%20Options.md)
 - [[List of Charts]] | [[List of Diagrams]]
 
 **References**
 <!-- Links to pages not referenced in the content. -->
-- [Inspect Options](Inspect%20Options.md)
