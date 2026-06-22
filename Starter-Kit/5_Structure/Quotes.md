@@ -14,7 +14,7 @@ view_count: 1
 
 # Quotes
 <!-- A list of quotes from famous author‘s  -->
-[[Reference]] > [[Authors]] | [[Bibliography]] | [[Books]] | [[List of Index|Index]] | [[Glossary]] | [[Quotes]]
+[[Reference]] > [[Authors]] | [[Bibliography]] | [[List of Index|Index]] | [[Glossary]] | [[Quotes]]
 
 ### Datastory
 ```dataview

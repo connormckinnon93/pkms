@@ -256,7 +256,7 @@ dv.paragraph('<small> ' +
 
 - [Reading](List%20of%20Reading.md) | [Books per Year](Reading%20List%20-%20Book%20per%20Year.md) | [[Bibliography]]
 
-- [Books](Books.md) - [[Bibliography]]
+- [[Bibliography]]
 - [List of Terms](List%20of%20Terms.md) - [[Glossary]] - [[List of Index]] - [[Index - Zettelkasten]] - [[Maps of Books]]
 - [[Inspect Bibliographical Notes]]
 

@@ -16,7 +16,7 @@ view_count: 1
 
 # Glossary
 
-[[Reference]] > [[Authors]] | [[Bibliography]] | [[Books]] | [[Glossary]] | [[Quotes]]
+[[Reference]] > [[Authors]] | [[Bibliography]] | [[Glossary]] | [[Quotes]]
 
 <!-- DataView table, use example and modify -->
 ```dataview

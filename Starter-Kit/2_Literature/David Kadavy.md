@@ -24,10 +24,6 @@ view_count: 1
 > [!Bio short]
 > `= this.bio_short`
 
-## Books
-<!-- Only most important I‘ve read -->
-- [[Digital Zettelkasten - David Kadavy]]
-
 ## Notes
 <!-- The main content of my thoughts really -->
 - 
@@ -66,6 +62,5 @@ view_count: 1
 ---
 References
 
-- [How to take Smart Notes - Sönke Ahrens](How%20to%20take%20Smart%20Notes%20-%20Sönke%20Ahrens.md)
 - https://kadavy.net/blog/posts/how-to-take-smart-notes-summary/
 - https://kadavy.net/blog/

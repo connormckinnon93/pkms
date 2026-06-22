@@ -27,11 +27,6 @@ Dr. Sönke Ahrens is a writer and researcher in the field of education and socia
 
 He is the author of the award-winning book “Experiment and Exploration: Forms of World Disclosure” (Springer). Since its first publication, How to Take Smart Notes has sold more than 100,000 copies and has been translated into 13 languages.
 
-## Books
-<!-- Only most important I‘ve read -->
-
-- [How to take Smart Notes - Sönke Ahrens](How%20to%20take%20Smart%20Notes%20-%20Sönke%20Ahrens.md)
-
 ## Notes
 <!-- The main content of my thoughts really -->
 - 

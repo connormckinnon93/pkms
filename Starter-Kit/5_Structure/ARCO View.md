@@ -28,7 +28,7 @@ updated: 2024-10-23T17:47
 > [!reference]- Reference
 > _Book of facts and external links_
 >
-> [[Reference]] > [Authors](Authors.md) | [Bibliography](Bibliography.md) | [Books](Books.md) | [Glossary](Glossary.md) | [Quotes](Quotes.md)
+> [[Reference]] > [Authors](Authors.md) | [Bibliography](Bibliography.md) | [Glossary](Glossary.md) | [Quotes](Quotes.md)
 
 > [!calendar]- Calendar
 > _Book of events_
