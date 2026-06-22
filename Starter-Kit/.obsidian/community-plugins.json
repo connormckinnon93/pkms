@@ -2,5 +2,6 @@
   "obsidian-banners",
   "obsidian-charts",
   "dataview",
-  "view-count"
+  "view-count",
+  "obsidian-linter"
 ]
