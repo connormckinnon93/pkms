@@ -27,7 +27,7 @@ view_count: 2
 // === 7 Days Chart ===
 
 // --- Age ---
-var first_note = "20220307";
+var first_note = "20260622";
 var a = moment();
 var b = moment(first_note);
 var age_years = a.diff(b, 'years');

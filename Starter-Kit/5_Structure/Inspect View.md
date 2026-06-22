@@ -83,7 +83,7 @@ dv.paragraph("> " + text.message + " <br>- "
 ```dataviewjs 
 
 // --- Age ---
-var first_note = "20220307";
+var first_note = "20260622";
 var a = moment();
 var b = moment(first_note);
 var age_years = a.diff(b, 'years');
