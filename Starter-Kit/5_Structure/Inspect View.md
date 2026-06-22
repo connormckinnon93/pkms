@@ -87,10 +87,7 @@ var first_note = "20260622";
 var a = moment();
 var b = moment(first_note);
 var age_years = a.diff(b, 'years');
-var age_month = a.diff(b, ',months');
-var age_days = a.diff(b, ',days');
 var age = a.diff(b, 'days') - 365 * age_years;
-var test = moment.duration(age, "milliseconds").humanize();
 
 var start = moment().startOf('day'); 
 var dateformat = "YYYY-MM-DD, hh:mm";
