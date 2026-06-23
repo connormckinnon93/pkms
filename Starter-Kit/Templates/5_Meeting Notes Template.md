@@ -2,14 +2,17 @@
 tags:
   - type/meeting
   - theme/xyz
-aliases: 
+aliases:
 lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
-meeting_date: 
-created: {{DATE:YYYY-MM-DD, HH:mm}}
-modified: {{DATE:YYYY-MM-DD, HH:mm}}
+meeting_date:
+created:
+  "{ DATE:YYYY-MM-DD, HH:mm }":
+modified:
+  "{ DATE:YYYY-MM-DD, HH:mm }":
 template_type: Meeting
 template_version: "1.26"
+view_count: 1
 ---
 <!--  See "Template Help" below for using properties -->
 

@@ -1,3 +1,6 @@
+---
+view_count: 1
+---
 
 ---
 # Back Matter

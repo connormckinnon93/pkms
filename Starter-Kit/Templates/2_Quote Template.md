@@ -1,16 +1,19 @@
 ---
-tags: 
-- type/quote
-- theme/xyz
-aliases: 
-quote: 
+tags:
+  - type/quote
+  - theme/xyz
+aliases:
+quote:
 author:
 year:
 visual: "![[image.jpg]]"
-created: {{DATE:YYYY-MM-DD, HH:mm}}
-modified: {{DATE:YYYY-MM-DD, HH:mm}}
+created:
+  "{ DATE:YYYY-MM-DD, HH:mm }":
+modified:
+  "{ DATE:YYYY-MM-DD, HH:mm }":
 template_type: Quote
 template_version: "1.17"
+view_count: 1
 ---
 
 # {{Title}}

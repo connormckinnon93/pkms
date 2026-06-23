@@ -1,16 +1,19 @@
 ---
-tags: 
-- type/prompt 
-- theme/xyz
-- source/chatgpt 
+tags:
+  - type/prompt
+  - theme/xyz
+  - source/chatgpt
 aliases:
 question: +++ Question goes here +++
 lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
-created: {{DATE:YYYY-MM-DD, HH:mm}}
-modified: {{DATE:YYYY-MM-DD, HH:mm}}
+created:
+  "{ DATE:YYYY-MM-DD, HH:mm }":
+modified:
+  "{ DATE:YYYY-MM-DD, HH:mm }":
 template_type: Prompt
 template_version: "1.17"
+view_count: 1
 ---
 <!--  See "Template Help" below for using properties -->
 

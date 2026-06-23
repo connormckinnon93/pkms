@@ -2,13 +2,16 @@
 tags:
   - type/tool
   - theme/xyz
-aliases: 
+aliases:
 lead: +++ Term definition goes here +++
 visual: "![[image.jpg]]"
-created: {{DATE:YYYY-MM-DD, HH:mm}}
-modified: {{DATE:YYYY-MM-DD, HH:mm}}
+created:
+  "{ DATE:YYYY-MM-DD, HH:mm }":
+modified:
+  "{ DATE:YYYY-MM-DD, HH:mm }":
 template_type: Tool
 template_version: "1.20"
+view_count: 1
 ---
 
 # {{Title}}

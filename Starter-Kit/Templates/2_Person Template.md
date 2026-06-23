@@ -1,18 +1,21 @@
 ---
-tags: 
-- type/person 
-- theme/xyz
-- role/xyz
-aliases: 
+tags:
+  - type/person
+  - theme/xyz
+  - role/xyz
+aliases:
 birth:
 death:
-bio_short: 
+bio_short:
 lead: +++ Term definition goes here +++
 visual: "![[image.jpg]]"
-created: {{DATE:YYYY-MM-DD, HH:mm}}
-modified: {{DATE:YYYY-MM-DD, HH:mm}}
+created:
+  "{ DATE:YYYY-MM-DD, HH:mm }":
+modified:
+  "{ DATE:YYYY-MM-DD, HH:mm }":
 template_type: Person
 template_version: "1.20"
+view_count: 1
 ---
 <!--  See "Template Help" below for using properties -->
 

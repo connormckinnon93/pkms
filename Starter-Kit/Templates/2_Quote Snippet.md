@@ -1,3 +1,6 @@
+---
+view_count: 1
+---
 
 <!-- DataviewJS for random quotes. Use as example and modify -->
 > [!QUOTE]

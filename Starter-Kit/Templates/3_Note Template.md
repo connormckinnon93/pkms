@@ -3,14 +3,17 @@ tags:
   - type/sketchnote
   - type/note
   - theme/xyz
-aliases: 
+aliases:
 lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
-created: {{DATE:YYYY-MM-DD, HH:mm}}
-modified: {{DATE:YYYY-MM-DD, HH:mm}}
+created:
+  "{ DATE:YYYY-MM-DD, HH:mm }":
+modified:
+  "{ DATE:YYYY-MM-DD, HH:mm }":
 template_type: Note
 template_version: "1.35"
 license: © 2022-2025 by Edmund Gröpl under CC BY-NC-SA 4.0
+view_count: 1
 ---
 <!--  See "Template Help" below for using properties -->
 

@@ -1,21 +1,24 @@
 ---
-tags: 
-- type/post 
-- theme/xyz
-- target/linkedin 
-- target/forumobsidian
-- target/forumzettelkasten
-- target/reddit
+tags:
+  - type/post
+  - theme/xyz
+  - target/linkedin
+  - target/forumobsidian
+  - target/forumzettelkasten
+  - target/reddit
 aliases:
 visual: "![[image.jpg]]"
 lead: +++ Lead paragraph goes here +++
 published:
 views: 0
 feedbacks: 0
-created: {{DATE:YYYY-MM-DD, HH:mm}}
-modified: {{DATE:YYYY-MM-DD, HH:mm}}
-template_type: "Post"
+created:
+  "{ DATE:YYYY-MM-DD, HH:mm }":
+modified:
+  "{ DATE:YYYY-MM-DD, HH:mm }":
+template_type: Post
 template_version: "1.27"
+view_count: 1
 ---
 
 # Post - {{Title}}

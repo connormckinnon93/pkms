@@ -1,11 +1,11 @@
 ---
-tags: 
-- type/chapter 
-- theme/xyz
-- target/ebook 
+tags:
+  - type/chapter
+  - theme/xyz
+  - target/ebook
 aliases:
 visual: "![[IMGAGE.png]]"
-title_short: "e1"
+title_short: e1
 rule: +++ Add simple rule here +++
 chapter: "0.0"
 version: "0.1"
@@ -13,13 +13,16 @@ book_version: 0.19
 status: draft
 word_count: 0
 bar: <progress max=100 value=0></progress><br>0% first ideas
-created: {{DATE:YYYY-MM-DD, HH:mm}}
-modified: {{DATE:YYYY-MM-DD, HH:mm}}
+created:
+  "{ DATE:YYYY-MM-DD, HH:mm }":
+modified:
+  "{ DATE:YYYY-MM-DD, HH:mm }":
 published:
 views: 0
 feedbacks: 0
 template_type: Ebook
 template_version: "1.26"
+view_count: 1
 ---
 <!--  
 status: draft, final, published, revised 

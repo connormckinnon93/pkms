@@ -2,13 +2,16 @@
 tags:
   - type/recipe
   - theme/cooking
-aliases: 
+aliases:
 lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
-created: {{DATE:YYYY-MM-DD, HH:mm}}
-modified: {{DATE:YYYY-MM-DD, HH:mm}}
+created:
+  "{ DATE:YYYY-MM-DD, HH:mm }":
+modified:
+  "{ DATE:YYYY-MM-DD, HH:mm }":
 template_type: Note
 template_version: "1.11"
+view_count: 1
 ---
 <!--  See "Template Help" below for using properties -->
 

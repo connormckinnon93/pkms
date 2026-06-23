@@ -1,22 +1,25 @@
 ---
-tags: 
-- type/structure 
-- structure/list 
-- structure/bujo
-aliases: 
-created: {{DATE:YYYY-MM-DD, HH:mm}}
-modified: {{DATE:YYYY-MM-DD, HH:mm}}
+tags:
+  - type/structure
+  - structure/list
+  - structure/bujo
+aliases:
+created:
+  "{ DATE:YYYY-MM-DD, HH:mm }":
+modified:
+  "{ DATE:YYYY-MM-DD, HH:mm }":
 banner: "![[banner_bujo.JPG]]"
 banner_x: 0.5
 template_type: BuJo Future
 template_version: "1.12"
+view_count: 2
 ---
 <!--  See "Template Help" below for using properties -->
 
 # Future Log {{Title}}
 
 <!-- Main STRUCTURE of my content -->
-[Future Logs](Future%20Logs.md) | [[{{DATE:YYYY}}]] | [Ideas List](Ideas%20List.md) | [[Vision Board {{DATE:YYYY}}]]
+[[{{DATE:YYYY}}]] | [[OKRs {{DATE:YYYY}}]] | [[Bullet Journal Collections]]
 ___
 
 **Objectives & Key Results | 3-4 & 1-4**
