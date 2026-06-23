@@ -244,4 +244,4 @@ https://github.com/groepl/Obsidian-Templates
 
 ## References
 <!-- Links to pages not referenced in the content -->
-- [Obsidian Charts - Plugin](Obsidian%20Charts%20-%20Plugin.md)
+- Built with the Obsidian Charts plugin

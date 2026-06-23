@@ -11,7 +11,7 @@ template_type: Structure
 template_version: "1.6"
 banner: "![[IMG_0319.png]]"
 banner_x: 0.5
-view_count: 3
+view_count: 2
 updated: 2024-10-23T17:47
 ---
 
@@ -56,7 +56,7 @@ updated: 2024-10-23T17:47
 > <!-- active project notes go here -->
 >
 > ###### Tasks
-> [Tasks](Tasks.md) |  [Tasks Open](Tasks%20Open.md) | [from E-book](Tasks%20from%20E-book.md) | [from Zettelkasten](Tasks%20-%20Zettelkasten.md) | [from Sketchnotes](Tasks%20-%20Sketchnotes.md)
+> [Tasks](Tasks.md) |  [Tasks Open](Tasks%20Open.md)
 >
 > ###### Kanban
 > [Kanban Board](Kanban%20Board.md)

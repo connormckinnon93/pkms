@@ -11,7 +11,7 @@ created: 2024-07-28, 13:49
 modified: 2026-06-22, 16:30
 template_type: Structure
 template_version: "1.14"
-view_count: 2
+view_count: 6
 ---
 
 <!--  See "Template Help" below for using properties -->
@@ -50,6 +50,3 @@ FROM "3_Permanent"
 SORT file.cday desc
 LIMIT 20
 ```
-
----
-More about: [[Permanent Notes]]

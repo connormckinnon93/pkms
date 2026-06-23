@@ -9,7 +9,7 @@ banner: "![[banner_books.jpg]]"
 created: 2022-03-04, 19:32
 modified: 2026-06-22, 16:30
 template_type: Structure
-view_count: 1
+view_count: 2
 ---
 
 # Quotes
@@ -113,4 +113,4 @@ SORT author ASC
 
 ## References
 - _Photo by <a href="https://unsplash.com/@chuttersnap?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CHUTTERSNAP</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_
-- Query with [[Obsidian Plugin - Dataview]]
+- Query with the Dataview plugin

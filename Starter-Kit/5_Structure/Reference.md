@@ -25,7 +25,7 @@ view_count: 1
 - [[Bibliography]] — sources and citations
 - [[Glossary]] — defined terms
 - [[Quotes]] — notable quotes
-- [[Terms - Zettelkasten]] — term lists by theme
+- [[List of Terms]] — all defined terms
 
 ---
 # Back Matter

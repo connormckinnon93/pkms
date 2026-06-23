@@ -1,3 +1,6 @@
+---
+view_count: 1
+---
 
 <!-- Dataview table. Use as example and modify. -->
 ```dataview

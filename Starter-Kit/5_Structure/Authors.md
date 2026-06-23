@@ -33,7 +33,7 @@ SORT file.name ASC
 
 **References**
 <!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
-- see:: [[Obsidian Plugin - Dataview]] for how to use queries in Obsidian.
+- see:: the Dataview plugin for how to use queries in Obsidian.
 
 **Terms**
 <!-- Links to definition pages. -->

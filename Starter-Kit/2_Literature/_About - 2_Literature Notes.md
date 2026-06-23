@@ -1,5 +1,5 @@
 ---
-view_count: 2
+view_count: 5
 created: 2024-07-26, 20:42
 modified: 2026-06-22, 16:30
 tags:
@@ -41,6 +41,3 @@ FROM "2_Literature"
 SORT file.cday asc 
 LIMIT 20
 ```
-
----
-More about: [[Literature Notes]]

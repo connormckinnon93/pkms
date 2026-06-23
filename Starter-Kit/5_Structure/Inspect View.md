@@ -252,7 +252,7 @@ dv.paragraph('<small> ' +
 - [Reading](List%20of%20Reading.md) | [[Bibliography]]
 
 - [[Bibliography]]
-- [List of Terms](List%20of%20Terms.md) - [[Glossary]] - [[List of Index]] - [[Index - Zettelkasten]]
+- [List of Terms](List%20of%20Terms.md) - [[Glossary]] - [[List of Index]]
 
 **5_Structure Notes**
 - [[Structure Notes - Days viewed]]

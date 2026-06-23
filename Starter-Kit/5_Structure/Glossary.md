@@ -4,14 +4,14 @@ tags:
   - structure/reference
   - structure/list
   - target/starterkit
-aliases: 
+aliases:
 lead: +++ Lead paragraph goes here +++
 created: 2023-04-02, 09:30
 modified: 2026-06-22, 16:30
 template_type: Structure
 template_version: "1.4"
 banner: "![[banner_books.jpg]]"
-view_count: 1
+view_count: 2
 ---
 
 # Glossary
@@ -53,16 +53,6 @@ FROM #type/term AND #type/tool
 SORT file.name ASC
 ```
 
-## Zettelkasten
-
-<!-- DataView table, use example and modify -->
-```dataview
-TABLE WITHOUT ID
-	file.link as Terms, 
-	lead AS "Definitions"
-FROM #type/term AND #theme/zettelkasten 
-SORT file.name ASC
-```
 <!-- Options
 TABLE WITHOUT ID
 	file.folder AS ...
@@ -102,8 +92,5 @@ https://github.com/groepl/Obsidian-Templates
 
 ## References
 <!-- Links to pages not referenced in the content -->
-- [Glossary of Sketchnotes](Glossary%20of%20Sketchnotes.md)
-- [Glossary of Zettelkasten](Glossary%20of%20Zettelkasten.md)
-- [PKM Glossary](PKM%20Glossary.md)
 - https://blacksmithgu.github.io/obsidian-dataview/queries/dql-js-inline/ for use with "Term Template"
 - Photo by [Maksym Kaharlytskyi](https://unsplash.com/@qwitka?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/Q9y3LRuuxmg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

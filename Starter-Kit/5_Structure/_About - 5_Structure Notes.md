@@ -10,7 +10,7 @@ created: 2024-08-19, 13:36
 modified: 2026-06-22, 16:30
 template_type: Structure
 template_version: "1.14"
-view_count: 1
+view_count: 3
 ---
 
 <!--  See "Template Help" below for using properties -->
@@ -36,6 +36,3 @@ FROM "5_Structure"
 SORT file.cday desc
 LIMIT 20
 ```
-
----
-More about: [[Structure Notes]]

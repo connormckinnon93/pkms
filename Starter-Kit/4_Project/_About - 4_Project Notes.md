@@ -1,5 +1,5 @@
 ---
-view_count: 2
+view_count: 3
 created: 2024-08-19, 13:37
 modified: 2026-06-22, 16:30
 tags:
@@ -47,6 +47,3 @@ FROM "4_Project"
 SORT file.cday desc
 LIMIT 30
 ```
-
----
-More about: [[Project Notes]]

@@ -1,5 +1,5 @@
 ---
-view_count: 2
+view_count: 6
 created: 2024-07-26, 20:42
 modified: 2026-06-22, 16:30
 tags:
@@ -40,6 +40,3 @@ TABLE WITHOUT ID
 FROM "1_Fleeting"
 SORT file.cday asc 
 ```
-
----
-More about: [[Fleeting Notes]]
