@@ -239,7 +239,7 @@ dv.paragraph('<small> ' +
 
 **Workflow**
 - [7 Days Created](7%20Days%20Created%20Chart.md) | [7 Days Modified](7%20Days%20Modified%20Chart.md)
-- [[Best of|Best of]] - [[Zettelkasten Flowers 2024]]
+- [[Best of|Best of]]
 
 **3_Permanent Notes**
 - [[Permanent Notes - Days Viewed]]

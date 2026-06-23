@@ -34,7 +34,7 @@ updated: 2024-10-23T17:47
 > _Book of events_
 >
 >###### Meetings
->- [[Zettelkastenrunde - Mon]] | [WOL Troy - Fri](WOL%20Circle%202024.md)
+>- <!-- recurring meetings go here -->
 >
 >###### Bullet Journal
 >
@@ -53,7 +53,7 @@ updated: 2024-10-23T17:47
 > _Book of tasks and projects_
 >
 > ###### Projects
-> [_e1 - Make Useful Notes](_e1%20-%20Make%20Useful%20Notes.md) | [LinkedIn](LinkedIn%20Log.md)
+> <!-- active project notes go here -->
 >
 > ###### Tasks
 > [Tasks](Tasks.md) |  [Tasks Open](Tasks%20Open.md) | [from E-book](Tasks%20from%20E-book.md) | [from Zettelkasten](Tasks%20-%20Zettelkasten.md) | [from Sketchnotes](Tasks%20-%20Sketchnotes.md)
