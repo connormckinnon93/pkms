@@ -1,11 +1,8 @@
 ---
 tags:
   - type/note
-  - type/sketchnote
-  - theme/xyz
 aliases:
 lead: +++ Lead paragraph goes here +++
-visual: "![[image.jpg]]"
 created:
   "{ DATE:YYYY-MM-DD, HH:mm }":
 modified:

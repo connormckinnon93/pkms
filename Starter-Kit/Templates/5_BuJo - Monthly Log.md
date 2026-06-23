@@ -33,16 +33,6 @@ SORT file.name DESC
 
 ___
 
-```dataview
-TABLE WITHOUT ID
-	file.link AS "<small>3_Doing - [Kanban](Dataview%20-%20Kanban%20Board.md)</small>",
-	length(file.tasks) AS "<small>Tasks"
-WHERE kanban = "doing" 
-SORT file.ctime ASCENDING
-```
-
-___
-
 ### Calendar
 . 01
 . 02 

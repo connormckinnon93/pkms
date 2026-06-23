@@ -1,11 +1,8 @@
 ---
 tags:
-  - type/sketchnote
   - type/note
-  - theme/xyz
 aliases:
 lead: +++ Lead paragraph goes here +++
-visual: "![[image.jpg]]"
 created:
   "{ DATE:YYYY-MM-DD, HH:mm }":
 modified:
@@ -19,12 +16,6 @@ view_count: 1
 
 # {{Title}}
 <!--  Clear and descriptive title -->
-
-<!-- My sketchnote if available -->
-```dataviewjs 
-dv.paragraph(dv.current().visual);
-```
-<small>_Zoom: [[]] | Edit: [[]]_</small>
 
 <!--  Most essential idea from "lead"-key  in properties section -->
 
