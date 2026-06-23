@@ -35,7 +35,7 @@ template_version: "1.14"
 <!-- Main STRUCTURE of my content -->
 
 ---
-[[Forum Obsidian]] | [[Forum Zettelkasten]] | [[_About - 4_Project Notes|6_Project Notes]]
+[[_About - 4_Project Notes|6_Project Notes]]
 
 ```dataview
 TABLE WITHOUT ID 

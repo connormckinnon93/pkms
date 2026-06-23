@@ -13,7 +13,7 @@ template_version: "1.16"
 # {{Title}}
 
 <!-- Main STRUCTURE of my content -->
-[Monthly Logs 2025](Monthly%20Logs%202025.md) | [[2025]]
+[[{{DATE:YYYY}}]]
 ___
 
 ### OKRs
@@ -22,9 +22,9 @@ ___
 
 ```dataview
 TABLE WITHOUT ID
-	file.link as "<small>[OKRs](OKRs%202023.md)</small>",
+	file.link as "<small>[OKRs](OKRs%20{{DATE:YYYY}}.md)</small>",
 	template_type as "<small>Element</small>"
-WHERE status = "active_2025"
+WHERE status = "active_{{DATE:YYYY}}"
 SORT file.name DESC
 ```
 

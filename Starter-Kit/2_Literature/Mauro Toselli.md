@@ -29,14 +29,11 @@ license: © 2022-2025 by Edmund Gröpl under CC BY-NC-SA 4.0
 
 ## Books
 <!-- Only most important I‘ve read -->
-- [The Xlontrax theory of sketchnotes](The%20Xlontrax%20theory%20of%20sketchnotes.md)
 
 ## Notes
 <!-- The main content of my thoughts really -->
-- The xLontrax Theory of Sketchnote  -> [[AIDA for Sketchnotes]]
 - Xlontrax
 - Connecting the dots
-- Receiving signals -> [[Sending Signals]]
 -  https://www.maurotoselli.com/ CTO and visual thinker, runs an epic monthly newsletter called - [Keep the Creative Juices Flowing](https://maurotoselli.substack.com/)
 
 ## Quotes

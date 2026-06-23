@@ -73,13 +73,11 @@ dv.paragraph(dv.current().visual);
 
 **Source**
 <!-- Always keep a link to the source- -->
-- based_on:: [[Tools for Visual Thinking]]
+- based_on::
 
 **References**
 <!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
-- see:: [[Personal Knowledge Management - Defined by AI]] for used definition within visual.
-- see:: [[Zettelkasten - Defined by AI]]
-- see:: [[Zettelkasten Method Critique]]
+- see::
 
 **Terms**
 <!-- Links to definition pages. -->

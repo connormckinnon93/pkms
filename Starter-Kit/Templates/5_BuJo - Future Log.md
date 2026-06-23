@@ -16,7 +16,7 @@ template_version: "1.12"
 # Future Log {{Title}}
 
 <!-- Main STRUCTURE of my content -->
-[Future Logs](Future%20Logs.md) | [[2025]] | [Ideas List](Ideas%20List.md) | [Vision Board 2024](Vision%20Board%202024.md)
+[Future Logs](Future%20Logs.md) | [[{{DATE:YYYY}}]] | [Ideas List](Ideas%20List.md) | [[Vision Board {{DATE:YYYY}}]]
 ___
 
 **Objectives & Key Results | 3-4 & 1-4**

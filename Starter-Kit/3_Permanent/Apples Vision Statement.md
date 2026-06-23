@@ -32,7 +32,7 @@ dv.paragraph(dv.current().visual);
 **Details**
 <!-- Main content in body of my note  -->
 
-A good [[Vision statement]] for building up a Zettelkasten.
+A good vision statement for building up a Zettelkasten.
 
 **Supporting Content**
 <!-- Supporting content in tail of my note  -->
@@ -64,8 +64,6 @@ And I think regardless of who is in what job those values are so embedded in thi
 
 **References**
 <!-- Links to pages not referenced in the content. -->
-- [6 Großartige Vision-Statements](6%20Großartige%20Vision-Statements.md)
-- [Vision Statement Google](Vision%20Statement%20Google.md)
 
 **Terms**
 <!-- Links to definition pages. -->

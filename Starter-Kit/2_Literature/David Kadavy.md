@@ -48,7 +48,6 @@ view_count: 1
 
 ## References
 <!-- Links to pages not referenced in the content -->
-- [Digital Zettelkasten - Principles and Methods](Digital%20Zettelkasten%20-%20Principles%20and%20Methods.md)
 
 ## Template Help
 

@@ -15,7 +15,7 @@ death:
 created: 2022-03-06, 17:24
 modified: 2026-06-22, 16:30
 template_type: Person
-view_count: 1
+view_count: 2
 ---
 
 # Sönke Ahrens

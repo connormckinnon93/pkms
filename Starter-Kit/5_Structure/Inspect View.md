@@ -239,7 +239,6 @@ dv.paragraph('<small> ' +
 
 **Workflow**
 - [7 Days Created](7%20Days%20Created%20Chart.md) | [7 Days Modified](7%20Days%20Modified%20Chart.md)
-- [[Best of|Best of]]
 
 **3_Permanent Notes**
 - [[Permanent Notes - Days Viewed]]
@@ -263,7 +262,6 @@ dv.paragraph('<small> ' +
 - [[Project Notes - Created]]
 -  [Inspect Project Notes](Inspect%20Project%20Notes.md)
 - [[Project Notes without source links]]
-- Posted in [[Forum Obsidian]] | [[Forum Zettelkasten]]
 
 **Folders**
 - [[Inspect Folder Usage]]

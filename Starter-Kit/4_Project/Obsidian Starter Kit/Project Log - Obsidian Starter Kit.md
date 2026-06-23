@@ -30,7 +30,7 @@ template_version: "1.14"
 - Exchanged example notes
 
 **2024-08-23**
-- Updated README in GitHub with Zettelkasten Ontology from [[Post - Zettelkasten Ontology Map]]
+- Updated README in GitHub with Zettelkasten Ontology
 
 **2024-01-19**
 - Release v3.0.0

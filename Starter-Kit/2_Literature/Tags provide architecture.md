@@ -13,7 +13,7 @@ created: 2025-03-28, 17:34
 modified: 2026-06-22, 16:30
 template_type: Quote
 template_version: "1.17"
-view_count: 1
+view_count: 2
 visual: "![[image.jpg]]"
 ---
 
