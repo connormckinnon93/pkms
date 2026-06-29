@@ -7,8 +7,5 @@
 # View Count plugin's per-open cache (canonical counts are synced to note frontmatter)
 **/.obsidian/view-count.json
 
-# Vendored community plugin code (installed via Obsidian, not source-controlled here)
-**/.obsidian/plugins/
-
 # macOS
 .DS_Store
