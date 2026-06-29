@@ -6,9 +6,9 @@ tags:
 aliases:
 lead: Themed bullet-journal collections — reading lists, habit trackers, logs, and other recurring lists.
 created: 2026-06-22, 17:45
-modified: 2026-06-22, 17:45
+modified: 2026-06-29, 08:56
 template_type: Structure
-view_count: 3
+view_count: 5
 ---
 
 # Bullet Journal Collections

@@ -7,10 +7,10 @@ tags:
 aliases:
 lead: "**Structure Notes** are high-level notes that organize and connect related notes into a meaningful structure. They serve as _index hubs_ for clusters of notes, guiding navigation through related ideas. Use them for creating overviews of key topics, linking related concepts together, and mapping the relationships between ideas."
 created: 2024-08-19, 13:36
-modified: 2026-06-22, 16:30
+modified: 2026-06-29, 08:56
 template_type: Structure
 template_version: "1.14"
-view_count: 5
+view_count: 6
 ---
 
 <!--  See "Template Help" below for using properties -->
