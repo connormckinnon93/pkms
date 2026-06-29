@@ -30,15 +30,15 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 - Enjoy!
 
 ## Workflow
-<img src="/Starter-Kit/Visuals/IMG_0843.png" width="500" />
+<img src="/vault/Visuals/IMG_0843.png" width="500" />
 
 Page numbers reference to book [How to Take Smart Notes](https://www.soenkeahrens.de/en/takesmartnotes). from Sönke Ahrens.
 
 ## Literature Map
-<img src="/Starter-Kit/Visuals/Zettelkasten_LitMap_2024-08-04.png" width="500" />
+<img src="/vault/Visuals/Zettelkasten_LitMap_2024-08-04.png" width="500" />
 
 ## Zettelkasten Ontology
-<img src="/Starter-Kit/Visuals/Zettelkasten_Ontology.png" width="500" />
+<img src="/vault/Visuals/Zettelkasten_Ontology.png" width="500" />
 
 More about: https://forum.obsidian.md/t/limit-folders-how-do-you-use-zettelkasten-in-obsidian/35008/32
 
@@ -52,40 +52,40 @@ Why use a few simple words to define the term Zettelkasten, when it can be expla
 
 ### Zettelkasten Systems Model
 
-<img src="/Starter-Kit/Visuals/Zettelkasten System Definition Example_01.png" width="500" />
+<img src="/vault/Visuals/Zettelkasten System Definition Example_01.png" width="500" />
 
 ### Zettelkasten Detailed Systems Model
 
-<img src="/Starter-Kit/Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png" width="500" />
+<img src="/vault/Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png" width="500" />
 
 ### Zettelkasten Use Case Model 
 
-<img src="/Starter-Kit/Visuals/Zettelkasten_usecase_model_2025-04-24.png" width="500" />
+<img src="/vault/Visuals/Zettelkasten_usecase_model_2025-04-24.png" width="500" />
 
 ### Zettelkasten Object-Oriented Model 
 
-<img src="/Starter-Kit/Visuals/Zettelkasten_Class_Diagram_2025-04-26.png" width="500" />
-More about: <a href="https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit/blob/main/Starter-Kit/Assets/Zettelkasten_Class_Diagram_2025-04-26.pdf">PDF with links to sources</a>
+<img src="/vault/Visuals/Zettelkasten_Class_Diagram_2025-04-26.png" width="500" />
+More about: <a href="https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit/blob/main/vault/Assets/Zettelkasten_Class_Diagram_2025-04-26.pdf">PDF with links to sources</a>
 
 ### Zettelkasten Family Resemblance Model
 
-<img src="/Starter-Kit/Visuals/Zettelkasten_models_2025-04-15.png" width="500" />
+<img src="/vault/Visuals/Zettelkasten_models_2025-04-15.png" width="500" />
 
 ### Zettelkasten Maturity Model
 
-<img src="/Starter-Kit/Visuals/zettelkasten_maturity_2024-11-18.png" width="500" />
+<img src="/vault/Visuals/zettelkasten_maturity_2024-11-18.png" width="500" />
 
 ### Zettelkasten Mental Gym Model
 
-<img src="/Starter-Kit/Visuals/Zettelkasten_mental-gym_2025-06-08.png" width="500" />
+<img src="/vault/Visuals/Zettelkasten_mental-gym_2025-06-08.png" width="500" />
 More about: Use Your Zettelkasten as a Mental Gym. (Carddeck)
 
 ### Zettelkasten Historical Model
 
-<img src="/Starter-Kit/Visuals/Zettelkasten_history_2025-04-18.png" width="500" />
+<img src="/vault/Visuals/Zettelkasten_history_2025-04-18.png" width="500" />
 
 ## The Minimalist's Zettelkasten
-<img src="/Starter-Kit/Visuals/Minimalists_TitlePage_2025-11-27.png" width="200" />
+<img src="/vault/Visuals/Minimalists_TitlePage_2025-11-27.png" width="200" />
 The provided podcast from NotebookLM consists of excerpts from a book titled "The Minimalist’s Zettelkasten: Think Better with Less", authored by Edmund Gröpl. It is set to be independently published in early 2026. 
 <br><br>
 More about: https://github.com/groepl/Take-Useful-Notes/

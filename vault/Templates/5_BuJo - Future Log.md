@@ -12,7 +12,7 @@ banner: "![[banner_bujo.JPG]]"
 banner_x: 0.5
 template_type: BuJo Future
 template_version: "1.12"
-view_count: 2
+view_count: 3
 ---
 <!--  See "Template Help" below for using properties -->
 
