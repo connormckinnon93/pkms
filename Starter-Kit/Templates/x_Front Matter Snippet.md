@@ -9,6 +9,6 @@ modified:
   "{ DATE:YYYY-MM-DD, HH:mm }":
 template_type: Frontmatter
 template_version: "1.12"
-view_count: 1
+view_count: 2
 ---
 <!--  See "Template Help" below for using properties -->

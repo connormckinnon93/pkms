@@ -1,5 +1,5 @@
 ---
-view_count: 2
+view_count: 4
 ---
 
 <!-- Dataview table. Use as example and modify. -->

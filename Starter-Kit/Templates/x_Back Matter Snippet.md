@@ -1,5 +1,5 @@
 ---
-view_count: 1
+view_count: 4
 ---
 
 ---

@@ -7,11 +7,10 @@ banner: "![[IMG_0319.png]]"
 banner_x: 0.34356
 lead: Home — start here. This vault tracks OKRs and a bullet journal.
 created: 2023-11-21, 20:38
-modified: 2026-06-23, 09:00
+modified: 2026-06-29, 08:25
 template_type: Structure
-view_count: 3
+view_count: 5
 ---
-
 # Home
 
 > [!Note]

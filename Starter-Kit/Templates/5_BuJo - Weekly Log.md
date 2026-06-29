@@ -9,7 +9,7 @@ modified:
   "{ DATE:YYYY-MM-DD, HH:mm }":
 template_type: BuJo Weekly
 template_version: "1.16"
-view_count: 2
+view_count: 3
 ---
 <!--  See "Template Help" below for using properties -->
 

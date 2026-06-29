@@ -10,7 +10,7 @@ modified:
   "{ DATE:YYYY-MM-DD, HH:mm }":
 template_type: BuJo Daily
 template_version: "1.9"
-view_count: 2
+view_count: 3
 ---
 
 ## Ideas & Tasks

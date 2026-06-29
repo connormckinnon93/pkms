@@ -8,7 +8,7 @@ lead: Themed bullet-journal collections — reading lists, habit trackers, logs,
 created: 2026-06-22, 17:45
 modified: 2026-06-22, 17:45
 template_type: Structure
-view_count: 1
+view_count: 3
 ---
 
 # Bullet Journal Collections

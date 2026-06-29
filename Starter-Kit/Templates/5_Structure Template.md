@@ -11,7 +11,7 @@ modified:
   "{ DATE:YYYY-MM-DD, HH:mm }":
 template_type: Structure
 template_version: "1.18"
-view_count: 1
+view_count: 3
 ---
 <!--  See "Template Help" below for using properties -->
 
