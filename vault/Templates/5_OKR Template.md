@@ -13,7 +13,7 @@ modified:
   "{ DATE:YYYY-MM-DD, HH:mm }":
 template_type: OKR
 template_version: "1.17"
-view_count: 3
+view_count: 1
 ---
 <!-- 
 okr: idea, wish, keyaction, keyresult, objective | annual
